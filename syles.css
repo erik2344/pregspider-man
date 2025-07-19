@@ -1,6 +1,6 @@
 html{
     font-family: 'Poppins', sans-serif;;
-    background-image: url('images/fondoaraña.jpg'); /* imagen detras del body*/
+    background-image: url('./images/fondoarana.jpg'); /* imagen detras del body*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
