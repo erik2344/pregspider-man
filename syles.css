@@ -82,3 +82,23 @@ a:hover {
 .parrafos{
     text-align: center;
 }
+@media (max-width: 768px) {
+    #parrafo1,
+    #parrafo2 {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .listas {
+        padding-left: 1rem;
+    }
+
+    body {
+        width: 95%;
+        margin: 1rem auto;
+    }
+
+    hr {
+        width: 60%;
+    }
+}
